@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Krub", sans-serif;
+    font-size: 26px;
+}
+:root {
+    --blanco: #ffffff;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris: #757575;
+    --oscuro: #212121;
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    font-size: 62.5%;
+}

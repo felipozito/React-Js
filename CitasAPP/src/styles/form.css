@@ -1,0 +1,20 @@
+.content-form {
+      padding: 10px 10px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 10px 2px black;
+      background: rgb(31, 31, 84);
+      position: relative;
+      height: 280px;
+}
+.content-form h2 {
+      font-size: 30px;
+      color: white;
+}
+.form {
+      background: gray;
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: center;
+}

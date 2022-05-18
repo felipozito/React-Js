@@ -1,0 +1,16 @@
+@import url("../index.css");
+.navbar {
+    background-color: var(--secundario);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar a {
+    text-decoration: none;
+    color: var(--blanco);
+    padding: 10px 0px;
+}
+.navbar a:hover {
+    background-color: #ffc107;
+    transition: 500ms;
+}

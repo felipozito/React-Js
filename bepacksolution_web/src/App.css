@@ -1,0 +1,15 @@
+* {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: sans-serif;
+}
+:root {
+      --text_primary: #3db447;
+      --text_secundary: #ffffff;
+      --text_brown: #ae621a;
+      --color-primary: #fef9d7;
+      --color: #e8e2b2;
+      --color-secondary: #627f1b;
+      --color-footer: #2c384c;
+}

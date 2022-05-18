@@ -1,0 +1,13 @@
+@media (max-width: 400px) {
+    .servicios_content_card {
+        display: flex;
+        flex-direction: column;
+    }
+    .navbar {
+        background-color: var(--secundario);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+}

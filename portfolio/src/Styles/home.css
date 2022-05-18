@@ -1,0 +1,26 @@
+.home {
+      height: 100vh;
+      width: 100%;
+      background: url(../Assets/background.jpg);
+      background-position: center;
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      align-items: center;
+}
+.home-text h1 {
+      margin: 20px 0 20px;
+      font-size: var(--big-font);
+}
+span {
+      color: var(--main-color);
+}
+.home-text h3 {
+      font-size: 25px;
+      margin-bottom: 55px;
+}
+.home-text h4 {
+      color: #585c63;
+      font-size: 20px;
+      letter-spacing: 2px;
+}

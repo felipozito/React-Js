@@ -1,0 +1,8 @@
+@import url("../index.css");
+.cabezera {
+    text-align: center;
+    font-size: 3.8rem;
+}
+.cabezera span {
+    font-size: 2rem;
+}
